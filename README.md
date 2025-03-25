@@ -82,6 +82,6 @@ O middleware deve exibir os logs no console com a seguinte estrutura:
 
 - Inclua um arquivo README.md explicando como rodar o projeto.
 
-- Envie o link do repositório para o avaliador.
+- Envie o link do repositório para o avaliador (contato@oncontabil.com.br).
 
 #### Boa sorte e bom código!
